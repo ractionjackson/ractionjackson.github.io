@@ -1,13 +1,11 @@
 ## Welcome to Robert's github.io page
-
-You can use the [editor on GitHub](https://github.com/ractionjackson/ractionjackson.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files. (Using index.md and changing settings in YAML, for instance)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 -----
 
+To be updated and old personal site to be "ported" over very soon.
+
 ### TODO 
-- Port entire old personal webpage to github.io / jekyll (going to need to read the documentation)
+- Port entire old personal webpage to github.io / Jekyll (going to need to read the documentation).
+- If I find out I don't like Jekyll & subsystems very much, create my own static compilation website/blog/wiki system.
 
 #### Pages
 - main / index where blog posts can be written
@@ -23,6 +21,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+You can use the [editor on GitHub](https://github.com/ractionjackson/ractionjackson.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files. (Using index.md and changing settings in YAML, for instance)
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Jekyll Themes
 
